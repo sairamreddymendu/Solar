@@ -1,0 +1,5 @@
+C:\Users\mendu.sairam\Downloads\Moon\Solar\obj\Debug\net5.0\Solar.csproj.AssemblyReference.cache
+C:\Users\mendu.sairam\Downloads\Moon\Solar\obj\Debug\net5.0\Solar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendu.sairam\Downloads\Moon\Solar\obj\Debug\net5.0\Solar.AssemblyInfoInputs.cache
+C:\Users\mendu.sairam\Downloads\Moon\Solar\obj\Debug\net5.0\Solar.AssemblyInfo.cs
+C:\Users\mendu.sairam\Downloads\Moon\Solar\obj\Debug\net5.0\Solar.csproj.CoreCompileInputs.cache
